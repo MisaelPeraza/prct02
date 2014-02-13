@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x 2 misael misael 4096 feb 13 11:44 docs
+drwxrwxr-x 2 misael misael 4096 feb 13 12:03 src
+-rw-rw-r-- 1 misael misael    0 feb 13 12:04 test01
+-rw-rw-r-- 1 misael misael    0 feb 13 12:01 test02
